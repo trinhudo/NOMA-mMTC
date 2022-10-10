@@ -16,3 +16,7 @@ Through numerical results, we show that the proposed schemes provide a considera
 
 - arXiv
 - IEEExplore
+
+# Demo
+
+[Simulation vs analytical results](https://github.com/trinhudo/NOMA-mMTC/blob/main/demo_simulation_analytical_results.pdf)
