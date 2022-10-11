@@ -14,7 +14,7 @@ Through numerical results, we show that the proposed schemes provide a considera
 
 # Paper
 
-- arXiv
+- [arXiv](https://arxiv.org/abs/2201.04784)
 - IEEExplore
 
 # Demo
